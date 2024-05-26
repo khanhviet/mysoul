@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function MySoul() {
+export default function MySoul({children}) {
   return (
-    <div>Viet Le Khanh</div>
+    <div>{children}</div>
   )
 }

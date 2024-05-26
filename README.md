@@ -1,49 +1,8 @@
-# react-like-posts-fb
+## My Profile
 
-An image library that's used to show the images, video in beautiful grids.
-Below you will find some information on how to perform common tasks.
+<a>https://linktr.ee/viet_lekhanh</a>
 
-![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/react-like-posts-fb.gif?raw=true)
-
-## Features
-
-- Display videos and photos on a beautiful screen
-
-## Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-Run the following
-
-```sh
-npm install react-like-posts-fb
-```
-
-or
-
-```sh
-yarn add react-like-posts-fb
-```
-
-# Basic Usage
-
-```sh
-import FbImageOrVideoLibrary from 'react-like-posts-fb'
-
-<FbImageOrVideoLibrary imagesOrVideos={[]}/>
-```
-
-## License
-
-MIT
-
-## Company
-
-FPT Software
-
-## My parents
+## My Family
 
 ![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/myparents.gif?raw=true)
 
@@ -53,6 +12,6 @@ FPT Software
 
 ## Author
 
-VIET LE KHANH (Viet Stupid)![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/heart.png?raw=true) ...
+VIET LEKHANH![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/heart.png?raw=true) ...
 
 **Sky Software, hello guys!**

@@ -1,30 +1,22 @@
 {
-  "name": "my-soul",
-  "version": "1.0.0",
+  "name": "viet-le-khanh",
+  "version": "1.7.0",
   "description": "",
-  "main": "lib/index.js",
-  "types": "lib",
+  "main": "mysoul.js",
   "scripts": {
-    "build": "tsc -p ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Viet Le Khanh",
-  "license": "ISC",
-  "peerDependencies": {
-    "react": ">=16.0.0"
-  },
-  "devDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-  },
-  "keywords": [
-    "viet le khanh",
-    "viet le khanh stupid",
-    "viet le khanh library"
-  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khanhviet/react-like-posts-fb"
+    "url": "git+https://github.com/khanhviet/mysoul.git#master"
   },
-  "homepage": "https://github.com/khanhviet/react-like-posts-fb#readme"
+  "keywords": [
+    "viet lekhanh"
+  ],
+  "author": "viet lekhanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhviet/mysoul/issues"
+  },
+  "homepage": "https://github.com/khanhviet/mysoul/tree/master#readme"
 }
