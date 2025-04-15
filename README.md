@@ -7,7 +7,7 @@
 <p>---------- VIETNAM ----------</p>
 
 ## My House
-![Screenshot](https://github.com/khanhviet/my-family/blob/master/video/myhouse.gif?raw=true)
+![Screenshot](https://github.com/khanhviet/my-family/blob/master/myhouse.gif?raw=true)
 
 ## Author
 
