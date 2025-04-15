@@ -1,6 +1,3 @@
-## My House
-![Screenshot](https://github.com/khanhviet/mysoul/blob/master/myhouse.gif?raw=true)
-
 ## My Family
 
 ![Screenshot](https://github.com/khanhviet/react-like-posts-fb/blob/master/myparents.gif?raw=true)
